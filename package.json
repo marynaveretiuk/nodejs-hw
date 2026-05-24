@@ -12,13 +12,16 @@
   "author": "Maryna Veretiuk <veretiuk@gmail.com>",
   "license": "ISC",
   "dependencies": {
+    "bcrypt": "^6.0.0",
     "celebrate": "^15.0.3",
+    "cookie-parser": "^1.4.7",
     "cors": "^2.8.5",
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
     "http-errors": "^2.0.1",
     "joi": "^18.2.1",
     "mongoose": "^9.6.2",
+    "nanoid": "^5.1.11",
     "pino-http": "^10.3.0"
   },
   "devDependencies": {
